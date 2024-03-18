@@ -3980,6 +3980,15 @@ img {
   font-size: 0.5em;
 }
 @media screen and (max-width: 991px) {
+  .animation{
+    padding-right:1.5vw;
+    padding-left:1.5vw;
+    font-size: 2vw;
+    line-height: 3vw;
+  }
+  .animation:after{
+    font-size: 0.5em;
+  }
   .divtext.inputwraptitle {
     font-size: 1.75vw;
     line-height: 2vw;
